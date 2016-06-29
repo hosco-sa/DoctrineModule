@@ -40,7 +40,7 @@
         "zendframework/zend-paginator":       "^2.6",
         "zendframework/zend-stdlib":          "^2.7.6",
         "zendframework/zend-hydrator":        "^1.1",
-        "zendframework/zend-mvc":             "^2.5.2",
+        "zendframework/zend-mvc":             "^2.5.2 || ^3.0.3",
         "zendframework/zend-servicemanager":  "^2.7.5 || ^3.0.3",
         "zendframework/zend-validator":       "^2.5.2"
     },
